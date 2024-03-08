@@ -3,7 +3,7 @@ import "./Footer.css";
 export default function Footer() {
   return (
     <footer className="footer">
-      <p>Copyright Taktsoft Campus</p>
+      <p>Copyright Tak Soft</p>
     </footer>
   );
 }
